@@ -1,13 +1,13 @@
-package com.madeovercode.transferwise;
+package com.madeovercode.transferwiser;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TransferwiseApplication {
+public class TransferwiserApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TransferwiseApplication.class, args);
+		SpringApplication.run(TransferwiserApplication.class, args);
 	}
 
 }
