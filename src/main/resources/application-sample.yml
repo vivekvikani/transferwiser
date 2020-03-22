@@ -1,0 +1,3 @@
+rest:
+  baseUrl: https://api.transferwise.com/v1/
+  authenticationToken: transferwise Token
