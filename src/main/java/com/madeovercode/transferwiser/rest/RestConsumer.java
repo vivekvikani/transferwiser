@@ -24,7 +24,6 @@ public class RestConsumer {
                         restConfigProps.getBaseUrl().concat("profiles"),
                         ProfileData[].class);
         if(null != profileData) {
-            log.info("Length: "+profileData.length);
             log.info(profileData[0].getId());
         }
     }
